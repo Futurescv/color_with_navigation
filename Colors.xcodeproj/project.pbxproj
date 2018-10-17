@@ -13,6 +13,8 @@
 		9D555F9A215DF46E00AB7311 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D555F98215DF46E00AB7311 /* LaunchScreen.storyboard */; };
 		9D555FA5215DF46E00AB7311 /* ColorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D555FA4215DF46E00AB7311 /* ColorsUITests.swift */; };
 		9D555FB0215DF49700AB7311 /* ColorsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D555FAF215DF49700AB7311 /* ColorsViewController.swift */; };
+		9DCB69F62176B92A00046F23 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCB69F52176B92A00046F23 /* Color.swift */; };
+		9DCB69F82176BBED00046F23 /* ColorDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCB69F72176BBED00046F23 /* ColorDetailViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		9D555FA4215DF46E00AB7311 /* ColorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsUITests.swift; sourceTree = "<group>"; };
 		9D555FA6215DF46E00AB7311 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D555FAF215DF49700AB7311 /* ColorsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsViewController.swift; sourceTree = "<group>"; };
+		9DCB69F52176B92A00046F23 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		9DCB69F72176BBED00046F23 /* ColorDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorDetailViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,8 @@
 				9D555F98215DF46E00AB7311 /* LaunchScreen.storyboard */,
 				9D555F9B215DF46E00AB7311 /* Info.plist */,
 				9D555FAF215DF49700AB7311 /* ColorsViewController.swift */,
+				9DCB69F52176B92A00046F23 /* Color.swift */,
+				9DCB69F72176BBED00046F23 /* ColorDetailViewController.swift */,
 			);
 			path = Colors;
 			sourceTree = "<group>";
@@ -199,6 +205,8 @@
 			files = (
 				9D555FB0215DF49700AB7311 /* ColorsViewController.swift in Sources */,
 				9D555F90215DF46D00AB7311 /* AppDelegate.swift in Sources */,
+				9DCB69F62176B92A00046F23 /* Color.swift in Sources */,
+				9DCB69F82176BBED00046F23 /* ColorDetailViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
